@@ -27,3 +27,13 @@ btnElement.addEventListener("click", function(){
 });
 ```
 
+## Experience
+[Website for a coffee shop](https://codepen.io/tanya_melnik18/pen/ExErZvJ)
+
+## Education
+* Baccalaureat in IT, Plekhanov University *(in progress)*
+* Course "Web technologies: entry level" by Stepik
+* Course "Basics of HTML and CSS" by Stepik
+* Course "Web Development for Beginners: HTML and CSS" by Stepik
+* RS Schools Course «JavaScript/Front-end. Stage 0» *(in progress)*
+
