@@ -10,5 +10,20 @@ My goal is to get real work experience as a front-end developer.
 * Git, GitHub 
 * Figma
 
+## Code example
+```
+btnElement = document.querySelector(".btn"); 
+resultElement = document.querySelector(".result"); 
+radioButtons = document.querySelectorAll('[name="food"]'); 
 
+btnElement.addEventListener("click", function(){  
+    let total = 0;
+    for (const radioButton of radioButtons){     
+        if(radioButton.checked){
+            total+=parseInt(radioButton.value,10);
+        }
+    }
+        resultElement.textContent = total; 
+});
+```
 
