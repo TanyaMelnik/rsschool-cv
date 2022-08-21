@@ -37,3 +37,11 @@ btnElement.addEventListener("click", function(){
 * Course "Web Development for Beginners: HTML and CSS" by Stepik
 * RS Schools Course «JavaScript/Front-end. Stage 0» *(in progress)*
 
+## Languages
+* English - Intermediate
+* Russian - Native
+
+## Contacts
+* Phone: +7-910-423-11-51
+* Email: tmelnik03@gmail.com
+* GitHub: TanyaMelnik
